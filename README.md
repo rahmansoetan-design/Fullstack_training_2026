@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My first mobile GitHub repository
+=======
+
+>>>>>>> c01c1fc0629be1a00937ce1cfa303db7d228dda4
